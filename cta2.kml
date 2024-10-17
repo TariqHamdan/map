@@ -8,8 +8,7 @@
 		<altitude>0</altitude>
 		<heading>-4.879209422966144e-10</heading>
 		<tilt>44.99999999924495</tilt>
-		<range>999.9999632212792</range>
-		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		<range>999.9999632212792</range>		
 	</LookAt>
 	<Icon>
 		<href>https://raw.githubusercontent.com/TariqHamdan/map/refs/heads/main/Hajj_level01_01.jpg</href>		
