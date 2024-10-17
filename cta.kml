@@ -12,7 +12,7 @@
               <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
        </LookAt>
        <Icon>
-              <href>Hajj_level01_01.jpg</href>		
+              <href>https://raw.githubusercontent.com/TariqHamdan/map/refs/heads/main/Hajj_level01_01.jpg</href>		
               <viewBoundScale>0.75</viewBoundScale>
        </Icon>
        <LatLonBox>
