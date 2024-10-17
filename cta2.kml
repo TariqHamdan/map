@@ -2,14 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <GroundOverlay>
 	<name>Untitled Image Overlay</name>
-	<LookAt>
-		<longitude>39.14251056032087</longitude>
-		<latitude>21.70033444082181</latitude>
-		<altitude>0</altitude>
-		<heading>-4.879209422966144e-10</heading>
-		<tilt>44.99999999924495</tilt>
-		<range>999.9999632212792</range>		
-	</LookAt>
+	 <LookAt>
+              <longitude>39.14251056032087</longitude>
+              <latitude>21.70033444082181</latitude>
+              <altitude>0</altitude>
+              <heading>-4.879209422966144e-10</heading>
+              <tilt>44.99999999924495</tilt>
+              <range>999.9999632212792</range>
+              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+       </LookAt>
+
 	<Icon>
 		<href>https://raw.githubusercontent.com/TariqHamdan/map/refs/heads/main/Hajj_level01_01.jpg</href>		
 		<viewBoundScale>0.75</viewBoundScale>
