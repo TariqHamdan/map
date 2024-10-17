@@ -8,7 +8,29 @@
   <Document>
     <name>Chicago Transit Map</name>
     <description>Chicago Transit Authority train lines</description>
-
+       <GroundOverlay>
+       	<name>Untitled Image Overlay</name>
+       	<LookAt>
+       		<longitude>30.14251056032087</longitude>
+       		<latitude>20.70033444082181</latitude>
+       		<altitude>0</altitude>
+       		<heading>-4.879209422966144e-10</heading>
+       		<tilt>44.99999999924495</tilt>
+       		<range>999.9999632212792</range>
+       		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+       	</LookAt>
+       	<Icon>
+       		<href>https://drive.google.com/file/d/1R_DnJ4F0-ueswY6vUdIMXGbVLE7Chvk4/view?usp=sharing</href>		
+       		<viewBoundScale>0.75</viewBoundScale>
+       	</Icon>
+       	<LatLonBox>
+       		<north>21.70079567914575</north>
+       		<south>21.69987320400797</south>
+       		<east>39.14619439780541</east>
+       		<west>39.13882672358753</west>
+       		<rotation>-70.09317779541017</rotation>
+       	</LatLonBox>
+       </GroundOverlay>
     <Style id="blueLine">
       <LineStyle>
         <color>ffff0000</color>
